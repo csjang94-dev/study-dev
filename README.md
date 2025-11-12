@@ -1,12 +1,28 @@
-# study-dev
-projects
-# 안녕하세요, 만나서 반갑습니다.
+# 📚 study-dev
 
-## 이 레포지토리는 아래의 내용을 학습하기 위한 저장소입니다.
-- Frontend (HTML, CSS, JavaScript)
-- Docker & Linux
-- AWS Cloud
-- Python
+안녕하세요! 이 레포지토리에 방문해 주셔서 감사합니다. 😊
 
-## ☎개인연락처☎
-- Email: csjang94@gmail.com
+이 저장소는 **프론트엔드, 클라우드, 백엔드** 등 다양한 분야의 개인 학습 내용과 프로젝트 코드를 기록하는 공간입니다.
+
+---
+
+## 🚀 학습 목표 및 주요 주제
+
+현재 집중적으로 학습하고 기록하는 주요 영역은 다음과 같습니다.
+
+| 카테고리 | 주요 내용 |
+| :--- | :--- |
+| **프론트엔드 (Frontend)** | HTML, CSS, JavaScript 기초 및 응용 학습 |
+| **백엔드/데이터 (Backend/Data)** | Python 언어 기반 알고리즘 및 개발 스터디 |
+| **인프라/컨테이너 (Infra & Container)** | Docker, Linux 환경 구축 및 서버 관리 |
+| **클라우드 컴퓨팅 (Cloud)** | AWS Cloud 서비스 이해 및 활용 능력 강화 |
+
+---
+
+## 📞 연락처 및 소통
+
+궁금한 점이나 함께 논의하고 싶은 내용이 있다면 언제든지 아래 이메일로 연락 주세요!
+
+* **📧 Email:** csjang94@gmail.com
+
+---
